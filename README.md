@@ -12,6 +12,11 @@
  <a href="https://discord.gg/3xzPkYHd9U" target="_blank">
     <img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge" />
   </a></center>  
+  <br>
+    <center>
+ <a href="https://discord.gg/nMKUk5XRrS" target="_blank">
+    <img src="https://img.shields.io/discord/1371123787763810304?label=Join%20CodeX%20Community%20Emoji%20Server&logo=discord&style=for-the-badge" />
+  </a></center>  
 
 # ALL-IN-ONE Discord Bot
 
