@@ -1,3 +1,31 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Code+X+%F0%9F%9A%80;Made+by+CODE+X+Community" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <!-- Server Icon -->
+  <img src="https://cdn.discordapp.com/icons/1361584465645928549/a_6e284ae401fc4a541d83c2630be39a3f.gif?size=128" width="100" style="border-radius: 50%;" />
+
+  <!-- Live Server Preview -->
+  <br/><br/>
+ <a href="https://discord.gg/3xzPkYHd9U" target="_blank">
+    <img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge" />
+  </a>
+
+  <!-- Join Button -->
+  <br/><br/>
+  <a href="https://dsc.gg/codexsupport">
+    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+ Live Status -->
+  <a href="https://discord.com/users/1005088956951564358">
+    <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=10px" />
+  </a>
+</p>
+
+
 # ALL-IN-ONE Discord Bot
 
 ![Node.js](https://img.shields.io/badge/Node.js-16.9.0%2B-brightgreen?logo=node.js)
