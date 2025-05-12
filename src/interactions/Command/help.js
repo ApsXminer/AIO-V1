@@ -31,7 +31,7 @@ module.exports = {
             .setThumbnail(client.user.displayAvatarURL({ format: "png", size: 1024 }))
             .addFields([
                 {
-                    name: "Categories [1-9]",
+                    name: "<:Blue_dot:1371173602048606360> Category 1",
                     value: `>>> <:blue_afk_1371359709466198066:1371359738520141834>┆AFK
                     <:18960soundboardsgglogo:1371358931171147848>┆Announcement
                     <:blue_automod:1371330032257208390>┆Auto mod
@@ -44,7 +44,7 @@ module.exports = {
                     inline: true
                 },
                 {
-                    name: "Categories [19-27]",
+                    name: "<:Blue_dot:1371173602048606360> Category",
                     value: `>>> <:uparrows:1371335967448891444>┆Leveling
                     <:blue_chataILD:1371180174833483876>┆Messages
                     <:moderation:1371337297857089637>┆Moderation
@@ -62,7 +62,7 @@ module.exports = {
                     inline: true
                 },
                 {
-                    name: "Categories [10-18]",
+                    name: "<:Blue_dot:1371173602048606360> Category",
                     value: `>>> <:creditcard:1371335206530711643>┆Dcredits
                       <:gd_money_blue:1371360378860212314>┆Economy
                       <:Blue_member:1371335093003747329> ┆Family
@@ -74,7 +74,7 @@ module.exports = {
                       <:Invite_Blue:1371335831750709318> ┆Invites`,
                     inline: true
                 }, {
-                    name: "Categories Part [28-36]",
+                    name: "<:Blue_dot:1371173602048606360> Category",
                     value: `>>> <:stats:1371336857794904167>┆Server stats
                     <:settings_blue:1371330094668189766>┆Setup
                     <:18960soundboardsgglogo:1371358931171147848>┆Soundboard
