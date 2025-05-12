@@ -28,6 +28,7 @@ module.exports = {
             .setAuthor({ name: `${client.user.username}\'s Help Menu`, iconURL: client.user.displayAvatarURL({ format: "png" }) })
             .setImage(`https://i.stack.imgur.com/Fzh0w.png`)
             .setColor(`#5865F2`)
+            .setThumbnail(client.user.displayAvatarURL({ format: "png", size: 1024 }))
             .addFields([
                 {
                     name: "Categories [1-9]",
