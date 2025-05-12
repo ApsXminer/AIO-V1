@@ -8,23 +8,10 @@
 
   <!-- Live Server Preview -->
   <br/><br/>
+  <center>
  <a href="https://discord.gg/3xzPkYHd9U" target="_blank">
     <img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge" />
-  </a>
-
-  <!-- Join Button -->
-  <br/><br/>
-  <a href="https://dsc.gg/codexsupport">
-    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
- Live Status -->
-  <a href="https://discord.com/users/1005088956951564358">
-    <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=10px" />
-  </a>
-</p>
-
+  </a></center>  
 
 # ALL-IN-ONE Discord Bot
 
